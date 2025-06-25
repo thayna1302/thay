@@ -18,7 +18,18 @@
     </p>
     <p>
 Portanto, governos, empresas e indivíduos precisam agir de forma integrada e consciente. A mudança começa com pequenas atitudes, como reciclar, economizar energia, preservar áreas verdes e apoiar políticas públicas ambientais. Construir um futuro sustentável exige esforço coletivo, educação ambiental e, acima de tudo, compromisso ético com a vida em todas as suas formas.
- <!DOCTYPE html
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+ 
+</head>
+<body>
+  <img src="https://github.com/thayna1302/skskkssks/raw/main/94c8c514-7f63-411e-b139-48a434719a47.png" alt="Imagem do repositório" style="max-width:50%; height:auto;">
+</body>
+</html>
+        <!DOCTYPE html
     </p>
 </body>
 </html>
